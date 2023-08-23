@@ -5,10 +5,10 @@ import { cardItem, titleCard } from '../Data/OotyData';
 
 const Ooty = () => {
   return (
-    <>
+    <section id='ooty'>
         <TitleCard titleCard={titleCard} />
         <CreateCard titleCard={titleCard} cardItem={cardItem} />
-    </>
+    </section>
   )
 }
 
