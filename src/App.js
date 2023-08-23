@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navigation from './Pages/Navigation';
+import CarouselItem from './Pages/CarouselItem';
+import PlacesNavbar from "./Pages/PlacesNavbar";
+import Chennai from './Components/Chennai';
+import Rameswaram from './Components/Rameswaram';
+import Kodaikanal from "./Components/Kodaikanal";
+import Ooty from "./Components/Ooty";
+import KanyaKumari from "./Components/Kanyakumari";
+import Kumbakonam from "./Components/Kumbakonam";
+import Madurai from "./Components/Madurai";
+import Yercaud from "./Components/Yercaud";
+import Theni from "./Components/Theni";
+import Hogenakkal from './Components/Hogenakkal';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navigation />
+      <CarouselItem />
+      <PlacesNavbar />
+      <Chennai />
+      <Rameswaram />
+      <Kodaikanal />
+      <Ooty />
+      <KanyaKumari />
+      <Kumbakonam />
+      <Madurai />
+      <Yercaud />
+      <Theni />
+      <Hogenakkal />
+    </>
   );
 }
 
