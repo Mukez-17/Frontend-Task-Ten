@@ -27,7 +27,7 @@ const cardItem = [
         id : 2,
         placeName : "Kumbakarai Falls",
         img : Kumbakarai_Falls,
-        description : "Located in Dindigul district near Theni in Tamil Nadu, Kumbakkarai Falls is a mesmerising waterfall that...x"
+        description : "Located in Dindigul district near Theni in Tamil Nadu, Kumbakkarai Falls is a mesmerising waterfall that..."
     },
     {
         id : 3,
