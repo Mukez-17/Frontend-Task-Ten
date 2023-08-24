@@ -5,11 +5,12 @@
 }
 
 .body{
-    padding: 0 6%;
+    padding: 0 7%;
 }
 
-.carousel-img{
-    height: 650px !important;
+.carousel-image{
+    width: 100%;
+    height: 650px;
 }
 
 .places{
@@ -18,13 +19,13 @@
 }
 
 .place-nav{
-    margin: 40px 6%;
+    margin: 40px 0;
 }
 
 .place-ul{
     list-style-type: none;
-    padding: 0 29.5px;
-    margin: 0 29.5px;
+    padding: 0 36px;
+    margin: 0 36px;
 }
 
 .places h5{
@@ -55,6 +56,15 @@
     flex-basis: 50%;
 }
 
+.title-image{
+    width: 100%;
+    height: 350px;
+}
+
+.col1{
+    padding-right: 50px;
+}
+
 .col p{
     text-align: justify;
     font-size: 1.1rem;
@@ -73,6 +83,11 @@
     padding: 20px 0;
 }
 
+.card-container{
+    margin-left: 80px;
+    margin-right: 40px;
+}
+
 .card-item{
     width: 17rem;
     margin: 15px !important;
@@ -82,4 +97,51 @@
 
 section{
     margin-bottom: 40px;
+}
+
+@media (max-width:1024px) {
+    .card-container{
+        margin-left: 60px;
+        margin-right: 40px;
+    }
+    .card-item{
+        width: 15rem;
+    }
+    .row-card{
+        margin: 0;
+    }
+}
+
+@media (max-width: 800px){
+    .carousel-image{
+        height: 200px;
+    }
+    .card-container{
+        margin:0;
+    }
+    .title-image{
+        width: 100%;
+        height: auto;
+    }
+    .col1{
+        padding: 0 12px;
+    }
+    .card-item{
+        margin: 2% 10% !important;
+        padding: 0;
+        width: 20rem;
+    }
+}
+
+@media (max-width:400px) {
+    .card-item{
+        margin: 2% 5% !important;
+    }
+}
+
+@media (max-width:320px) {
+    .card-item{
+        width: 18rem;
+        margin: 2% 0 !important;
+    }
 }
