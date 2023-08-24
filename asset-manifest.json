@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Frontend-Task-Ten/static/css/main.54fc8c20.css",
+    "main.css": "/Frontend-Task-Ten/static/css/main.11b5b3b1.css",
     "main.js": "/Frontend-Task-Ten/static/js/main.d9b7531a.js",
     "static/media/Carousel5.png": "/Frontend-Task-Ten/static/media/Carousel5.4aa7b36e36febbab61b8.png",
     "static/media/Carousel2.png": "/Frontend-Task-Ten/static/media/Carousel2.7036f55636f086748e7a.png",
@@ -54,11 +54,11 @@
     "static/media/Thirparappu_Falls.jpeg": "/Frontend-Task-Ten/static/media/Thirparappu_Falls.d28c5cf9899147200fad.jpeg",
     "static/media/Kanyakumari_Beach.jpeg": "/Frontend-Task-Ten/static/media/Kanyakumari_Beach.847b97965e3052b65904.jpeg",
     "index.html": "/Frontend-Task-Ten/index.html",
-    "main.54fc8c20.css.map": "/Frontend-Task-Ten/static/css/main.54fc8c20.css.map",
+    "main.11b5b3b1.css.map": "/Frontend-Task-Ten/static/css/main.11b5b3b1.css.map",
     "main.d9b7531a.js.map": "/Frontend-Task-Ten/static/js/main.d9b7531a.js.map"
   },
   "entrypoints": [
-    "static/css/main.54fc8c20.css",
+    "static/css/main.11b5b3b1.css",
     "static/js/main.d9b7531a.js"
   ]
 }
