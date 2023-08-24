@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Frontend-Task-Ten/static/css/main.6a43d6e3.css",
-    "main.js": "/Frontend-Task-Ten/static/js/main.a5277c61.js",
+    "main.css": "/Frontend-Task-Ten/static/css/main.54fc8c20.css",
+    "main.js": "/Frontend-Task-Ten/static/js/main.d9b7531a.js",
     "static/media/Carousel5.png": "/Frontend-Task-Ten/static/media/Carousel5.4aa7b36e36febbab61b8.png",
     "static/media/Carousel2.png": "/Frontend-Task-Ten/static/media/Carousel2.7036f55636f086748e7a.png",
     "static/media/Carousel1.png": "/Frontend-Task-Ten/static/media/Carousel1.7dc3ad3a988f1dcd807d.png",
@@ -54,11 +54,11 @@
     "static/media/Thirparappu_Falls.jpeg": "/Frontend-Task-Ten/static/media/Thirparappu_Falls.d28c5cf9899147200fad.jpeg",
     "static/media/Kanyakumari_Beach.jpeg": "/Frontend-Task-Ten/static/media/Kanyakumari_Beach.847b97965e3052b65904.jpeg",
     "index.html": "/Frontend-Task-Ten/index.html",
-    "main.6a43d6e3.css.map": "/Frontend-Task-Ten/static/css/main.6a43d6e3.css.map",
-    "main.a5277c61.js.map": "/Frontend-Task-Ten/static/js/main.a5277c61.js.map"
+    "main.54fc8c20.css.map": "/Frontend-Task-Ten/static/css/main.54fc8c20.css.map",
+    "main.d9b7531a.js.map": "/Frontend-Task-Ten/static/js/main.d9b7531a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a43d6e3.css",
-    "static/js/main.a5277c61.js"
+    "static/css/main.54fc8c20.css",
+    "static/js/main.d9b7531a.js"
   ]
 }
