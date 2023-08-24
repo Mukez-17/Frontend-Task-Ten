@@ -114,7 +114,7 @@ section{
 
 @media (max-width: 800px){
     .carousel-image{
-        height: 200px;
+        height: 300px;
     }
     .card-container{
         margin:0;
@@ -136,6 +136,9 @@ section{
 @media (max-width:400px) {
     .card-item{
         margin: 2% 5% !important;
+    }
+    .carousel-image{
+        height: auto;
     }
 }
 
