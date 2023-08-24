@@ -84,13 +84,12 @@
 }
 
 .card-container{
-    margin-left: 80px;
-    margin-right: 40px;
+    margin:0 0 0 60px;
 }
 
 .card-item{
     width: 17rem;
-    margin: 15px !important;
+    margin: 55px !important;
     border: 1px solid gray !important;
     border-radius: 8px !important;
 }
