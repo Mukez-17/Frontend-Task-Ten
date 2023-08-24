@@ -21,4 +21,4 @@ const TitleCard = ({titleCard}) => {
   )
 }
 
-export default TitleCard
+export default TitleCard;
