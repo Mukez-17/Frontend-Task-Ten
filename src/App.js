@@ -3,7 +3,7 @@ import Navigation from './Pages/Navigation';
 import CarouselItem from './Pages/CarouselItem';
 import PlacesNavbar from "./Pages/PlacesNavbar";
 import Chennai from './Components/Chennai';
-import Rameswaram from './Components/Rameswaram';
+import Rameshwaram from './Components/Rameshwaram';
 import Kodaikanal from "./Components/Kodaikanal";
 import Ooty from "./Components/Ooty";
 import KanyaKumari from "./Components/Kanyakumari";
@@ -20,7 +20,7 @@ function App() {
       <CarouselItem />
       <PlacesNavbar />
       <Chennai />
-      <Rameswaram />
+      <Rameshwaram />
       <Kodaikanal />
       <Ooty />
       <KanyaKumari />

@@ -11,8 +11,7 @@ const CarouselItem = () => {
             <img 
               src={item.imgsrc} 
               alt={item.name}
-              className='w-100'
-              style={{height:"650px"}}
+              className='carousel-image'
               />
           </Carousel.Item>
         ))}
