@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Frontend-Task-Ten/static/css/main.a44aa409.css",
-    "main.js": "/Frontend-Task-Ten/static/js/main.d9b7531a.js",
+    "main.css": "/Frontend-Task-Ten/static/css/main.c96844a3.css",
+    "main.js": "/Frontend-Task-Ten/static/js/main.2f7fe588.js",
     "static/media/Carousel5.png": "/Frontend-Task-Ten/static/media/Carousel5.4aa7b36e36febbab61b8.png",
     "static/media/Carousel2.png": "/Frontend-Task-Ten/static/media/Carousel2.7036f55636f086748e7a.png",
     "static/media/Carousel1.png": "/Frontend-Task-Ten/static/media/Carousel1.7dc3ad3a988f1dcd807d.png",
@@ -36,6 +36,7 @@
     "static/media/Vivekananda_Memorial.jpeg": "/Frontend-Task-Ten/static/media/Vivekananda_Memorial.c21da6c46b714432442b.jpeg",
     "static/media/Sarangapani_Temple.jpeg": "/Frontend-Task-Ten/static/media/Sarangapani_Temple.c585350aa2543a86fdfa.jpeg",
     "static/media/Nilgiri_Mountain_Railway.jpeg": "/Frontend-Task-Ten/static/media/Nilgiri_Mountain_Railway.f7f782284bce9e14481d.jpeg",
+    "static/media/Place_To_Visit_Main_Photo.jpeg": "/Frontend-Task-Ten/static/media/Place_To_Visit_Main_Photo.84a2cfbc579120d50d9c.jpeg",
     "static/media/Airavatesvara_Temple.jpeg": "/Frontend-Task-Ten/static/media/Airavatesvara_Temple.27843d7b3321fe159652.jpeg",
     "static/media/Vaigai_Dam.jpeg": "/Frontend-Task-Ten/static/media/Vaigai_Dam.3f90a63c405d96104e4f.jpeg",
     "static/media/MGR_Film_City.jpeg": "/Frontend-Task-Ten/static/media/MGR_Film_City.f6b86cb591ebb94c53b7.jpeg",
@@ -54,11 +55,11 @@
     "static/media/Thirparappu_Falls.jpeg": "/Frontend-Task-Ten/static/media/Thirparappu_Falls.d28c5cf9899147200fad.jpeg",
     "static/media/Kanyakumari_Beach.jpeg": "/Frontend-Task-Ten/static/media/Kanyakumari_Beach.847b97965e3052b65904.jpeg",
     "index.html": "/Frontend-Task-Ten/index.html",
-    "main.a44aa409.css.map": "/Frontend-Task-Ten/static/css/main.a44aa409.css.map",
-    "main.d9b7531a.js.map": "/Frontend-Task-Ten/static/js/main.d9b7531a.js.map"
+    "main.c96844a3.css.map": "/Frontend-Task-Ten/static/css/main.c96844a3.css.map",
+    "main.2f7fe588.js.map": "/Frontend-Task-Ten/static/js/main.2f7fe588.js.map"
   },
   "entrypoints": [
-    "static/css/main.a44aa409.css",
-    "static/js/main.d9b7531a.js"
+    "static/css/main.c96844a3.css",
+    "static/js/main.2f7fe588.js"
   ]
 }
