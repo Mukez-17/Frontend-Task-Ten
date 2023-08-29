@@ -1,7 +1,7 @@
 import React from 'react'
 import Navigation from '../Home/Pages/Navigation';
 import HeaderFile from '../PlaceToVisit/HeaderFile';
-import PlaceToVisitTitle from '../Data/PlacesToVisitMainData';
+import PlaceToVisitTitle from '../Data/Home & PlaceToVisit/PlacesToVisitMainData';
 import Chennai from '../PlaceToVisit/Components/Chennai';
 import Rameshwaram from '../PlaceToVisit/Components/Rameshwaram';
 import Kodaikanal from '../PlaceToVisit/Components/Kodaikanal';

@@ -1,7 +1,7 @@
 import React from 'react';
 import TitleCard from '../Pages/TitleCard';
 import CreateCard from '../Pages/CreateCard';
-import { cardItem, titleCard } from '../../Data/KumbakonamData';
+import { cardItem, titleCard } from '../../Data/Home & PlaceToVisit/KumbakonamData';
 
 const Kumbakonam = () => {
   return (

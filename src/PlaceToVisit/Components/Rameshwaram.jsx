@@ -1,6 +1,6 @@
 import React from 'react';
 import CreateOverview from '../CreateOverview';
-import { cardItem, titleCard } from '../../Data/RameshwaramData';
+import { cardItem, titleCard } from '../../Data/Home & PlaceToVisit/RameshwaramData';
 
 const Rameshwaram = () => {
   return (

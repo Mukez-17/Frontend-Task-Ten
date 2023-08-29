@@ -1,6 +1,6 @@
 import React from 'react';
 import CreateOverview from '../CreateOverview';
-import { cardItem, titleCard } from '../../Data/KanyakumariData';
+import { cardItem, titleCard } from '../../Data/Home & PlaceToVisit/KanyakumariData';
 
 const Kanyakumari = () => {
   return (

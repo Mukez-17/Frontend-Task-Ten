@@ -1,6 +1,6 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import items from "../../Data/CarouselData";
+import items from "../../Data/Home & PlaceToVisit/CarouselData";
 
 const CarouselItem = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
 import CreateOverview from '../CreateOverview';
-import { cardItem, titleCard } from '../../Data/YercaudData';
+import { cardItem, titleCard } from '../../Data/Home & PlaceToVisit/YercaudData';
 
 const Yercaud = () => {
   return (

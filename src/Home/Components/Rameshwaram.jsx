@@ -1,6 +1,6 @@
 import React from 'react';
 import TitleCard from '../Pages/TitleCard';
-import { cardItem, titleCard } from '../../Data/RameshwaramData';
+import { cardItem, titleCard } from '../../Data/Home & PlaceToVisit/RameshwaramData';
 import CreateCard from '../Pages/CreateCard';
 
 const Rameshwaram = () => {

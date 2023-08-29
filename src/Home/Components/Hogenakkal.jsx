@@ -1,7 +1,7 @@
 import React from 'react';
 import TitleCard from '../Pages/TitleCard';
 import CreateCard from '../Pages/CreateCard';
-import { cardItem, titleCard } from '../../Data/HogenakkalData';
+import { cardItem, titleCard } from '../../Data/Home & PlaceToVisit/HogenakkalData';
 
 const Hogenakkal = () => {
   return (
