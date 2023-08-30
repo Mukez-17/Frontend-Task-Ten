@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Frontend-Task-Ten/static/css/main.e338712d.css",
-    "main.js": "/Frontend-Task-Ten/static/js/main.0df56389.js",
+    "main.css": "/Frontend-Task-Ten/static/css/main.a875a153.css",
+    "main.js": "/Frontend-Task-Ten/static/js/main.c1d36d95.js",
     "static/media/Carousel5.png": "/Frontend-Task-Ten/static/media/Carousel5.4aa7b36e36febbab61b8.png",
     "static/media/Carousel2.png": "/Frontend-Task-Ten/static/media/Carousel2.7036f55636f086748e7a.png",
     "static/media/Carousel1.png": "/Frontend-Task-Ten/static/media/Carousel1.7dc3ad3a988f1dcd807d.png",
     "static/media/Carousel3.png": "/Frontend-Task-Ten/static/media/Carousel3.a77119982a33334a07ee.png",
     "static/media/Carousel4.png": "/Frontend-Task-Ten/static/media/Carousel4.538094804a81d4d7c290.png",
+    "static/media/Food4.jpg": "/Frontend-Task-Ten/static/media/Food4.72ae3c210c7ff881377f.jpg",
     "static/media/Image_3.jpeg": "/Frontend-Task-Ten/static/media/Image_3.3912e551478c321502f1.jpeg",
     "static/media/Green_Valley_View.jpeg": "/Frontend-Task-Ten/static/media/Green_Valley_View.fa11ce1057ad0ad764c5.jpeg",
     "static/media/Ladys_Seat.jpeg": "/Frontend-Task-Ten/static/media/Ladys_Seat.49de37cb3d1b0b92b72e.jpeg",
     "static/media/Monsoon_Source.jpeg": "/Frontend-Task-Ten/static/media/Monsoon_Source.d217e953c5fcfdaf55dc.jpeg",
     "static/media/Emerald_Lake.jpeg": "/Frontend-Task-Ten/static/media/Emerald_Lake.2b31c592ed938452984b.jpeg",
+    "static/media/Food2.jpeg": "/Frontend-Task-Ten/static/media/Food2.dcba4b7ed2c1f096ab9e.jpeg",
     "static/media/Madurai.jpeg": "/Frontend-Task-Ten/static/media/Madurai.c82a05c038ed97a5f433.jpeg",
     "static/media/Chennai.jpeg": "/Frontend-Task-Ten/static/media/Chennai.d7227320daebf90b22fc.jpeg",
     "static/media/Pilgrims_Temple_Source.jpeg": "/Frontend-Task-Ten/static/media/Pilgrims_Temple_Source.141d029318716c9a8fb7.jpeg",
@@ -23,9 +25,11 @@
     "static/media/Kodaikanal.jpeg": "/Frontend-Task-Ten/static/media/Kodaikanal.d77293d7296bd227f049.jpeg",
     "static/media/kodaikanal_Lake_Source.jpeg": "/Frontend-Task-Ten/static/media/kodaikanal_Lake_Source.daab069231787b226ada.jpeg",
     "static/media/Winter_Source.jpeg": "/Frontend-Task-Ten/static/media/Winter_Source.5faf2ed3cfa4f14fb4ac.jpeg",
+    "static/media/Food3.jpg": "/Frontend-Task-Ten/static/media/Food3.085942788cc5163cce7a.jpg",
     "static/media/Hogenakkal.jpeg": "/Frontend-Task-Ten/static/media/Hogenakkal.bd95854f36a5a7b12868.jpeg",
     "static/media/Marundeeswarar_Temple.jpeg": "/Frontend-Task-Ten/static/media/Marundeeswarar_Temple.09f2786e0b409ae48f24.jpeg",
     "static/media/Railway_Bridge_Source.jpeg": "/Frontend-Task-Ten/static/media/Railway_Bridge_Source.77a59a939d69cdc654cb.jpeg",
+    "static/media/Food1.jpeg": "/Frontend-Task-Ten/static/media/Food1.330609d4a7c989ff0711.jpeg",
     "static/media/Pillar_Rocks_Source.jpeg": "/Frontend-Task-Ten/static/media/Pillar_Rocks_Source.19a63ca615e995c3bd5e.jpeg",
     "static/media/Dry_Source.jpeg": "/Frontend-Task-Ten/static/media/Dry_Source.7abe1fe0a38222351483.jpeg",
     "static/media/Image_1.jpeg": "/Frontend-Task-Ten/static/media/Image_1.d9f9f43d94a7f4e31526.jpeg",
@@ -86,11 +90,11 @@
     "static/media/Thirparappu_Falls.jpeg": "/Frontend-Task-Ten/static/media/Thirparappu_Falls.d28c5cf9899147200fad.jpeg",
     "static/media/Kanyakumari_Beach.jpeg": "/Frontend-Task-Ten/static/media/Kanyakumari_Beach.847b97965e3052b65904.jpeg",
     "index.html": "/Frontend-Task-Ten/index.html",
-    "main.e338712d.css.map": "/Frontend-Task-Ten/static/css/main.e338712d.css.map",
-    "main.0df56389.js.map": "/Frontend-Task-Ten/static/js/main.0df56389.js.map"
+    "main.a875a153.css.map": "/Frontend-Task-Ten/static/css/main.a875a153.css.map",
+    "main.c1d36d95.js.map": "/Frontend-Task-Ten/static/js/main.c1d36d95.js.map"
   },
   "entrypoints": [
-    "static/css/main.e338712d.css",
-    "static/js/main.0df56389.js"
+    "static/css/main.a875a153.css",
+    "static/js/main.c1d36d95.js"
   ]
 }
