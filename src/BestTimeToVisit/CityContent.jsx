@@ -24,10 +24,10 @@ const CityContent = ({ titleContent}) => {
             <p 
                 style={{textAlign:"justify"}}
             >
-                <span style={{marginLeft:"270px"}}></span>
+                <span className='span-content' style={{marginLeft:"270px"}}></span>
                 {titleContent.content.content1}
                 <br/><br/>
-                <span style={{marginLeft:"270px"}}></span>
+                <span className='span-content' style={{marginLeft:"270px"}}></span>
                 {titleContent.content.content2}
                 <br/><br/>
             </p>

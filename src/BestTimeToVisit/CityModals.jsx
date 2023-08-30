@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Button, Col, Figure, Modal, Offcanvas, Row } from 'react-bootstrap';
-import "./timeToVisit.css"
+
 
 const CityModals = ({ titleContent, offCanvasContent }) => {
 
@@ -28,7 +28,7 @@ const CityModals = ({ titleContent, offCanvasContent }) => {
             >
                 {titleContent.ids + ". " + titleContent.Heading}
             </h3>
-            <div className="col-lg-6">
+            <div className="col-lg-6 modal-col">
                 <div 
                     className={`modal show ${isActive ? "active" : null}`}
                     style={{
@@ -39,6 +39,7 @@ const CityModals = ({ titleContent, offCanvasContent }) => {
                     <Modal.Dialog>
                         <Modal.Header closeButton>
                             <Modal.Title 
+                                className='modalTitle'
                                 style={{
                                     paddingRight:"65px", 
                                     fontSize:"1.45rem", 
@@ -50,20 +51,21 @@ const CityModals = ({ titleContent, offCanvasContent }) => {
                             </Modal.Title>
                         </Modal.Header>
 
-                        <Modal.Body>
-                                <Row style={{margin:"0 50px"}}>
+                        <Modal.Body className='card-image'>
+                                <Row className='card-image' style={{margin:"0 6%"}}>
                                     {offCanvasContent.map((item) => (
-                                        <Col key={item.id}>
+                                        <Col key={item.id} xs={4} className='col-md-4 col-lg-4 figure-col'>
                                             <Figure>
                                                 <Figure.Image
                                                     src={item.imgsrc}
                                                     alt={item.title}
                                                     style={{
-                                                        width:'96px',
+                                                        width:'90%',
                                                         height:'150px'
                                                     }}
                                                 />
-                                                <Figure.Caption 
+                                                <Figure.Caption
+                                                    className='fig-caption'
                                                     style={{
                                                         width:"96px", 
                                                         textAlign:"center",

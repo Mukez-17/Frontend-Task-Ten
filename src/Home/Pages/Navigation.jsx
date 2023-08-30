@@ -6,7 +6,7 @@ const Navigation = () => {
   return (
     <Navbar collapseOnSelect expand="lg" style={{backgroundColor:"#C5C6D0", borderBottom:"3.5px Solid gray"}}>
         <Container>
-            <Navbar.Brand href="/" style={{color:"white", fontSize:"1.5rem", fontWeight:"600"}}>TAMILNADU TOURISM</Navbar.Brand>
+            <Navbar.Brand href="/" className='navbar-heading' style={{color:"white", fontSize:"1.5rem", fontWeight:"600"}}>TAMILNADU TOURISM</Navbar.Brand>
             <Navbar.Toggle aria-controls='responsive-navbar-nav' />
             <Navbar.Collapse id="responsive-navbar-nav" className='justify-content-end'>
                 <Nav className='nav-item'>

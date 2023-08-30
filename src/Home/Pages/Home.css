@@ -148,4 +148,8 @@ section{
         width: 18rem;
         margin: 2% 0 !important;
     }
+    .navbar-heading{
+        font-size: 1.25rem !important;
+        font-weight: 500 Im !important;
+    }
 }
