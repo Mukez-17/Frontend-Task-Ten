@@ -36,7 +36,7 @@ const CityModals = ({ titleContent, offCanvasContent }) => {
                         position : 'initial'
                     }}
                 >
-                    <Modal.Dialog>
+                    <Modal.Dialog style={{right:titleContent.id % 2 === 0 ? '40px' : '-40px'}}>
                         <Modal.Header closeButton>
                             <Modal.Title 
                                 className='modalTitle'

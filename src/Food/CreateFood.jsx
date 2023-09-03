@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container, Row } from 'react-bootstrap';
 import { cardItem, title } from '../Data/Food';
-import "./Food.css";
 
 const CreateFood = () => {
   return (
@@ -21,15 +20,15 @@ const CreateFood = () => {
             </div>
             <div 
               className="col-lg-6"
-              style={{padding:'2.5% 0 0 1.5%'}}
+              style={{padding:'2.5% 0 0 5%'}}
             >
               {title.foodImages.map((item) => (
                 <img 
                   key={item.id}
                   src={item.imgsrc} 
                   style={{
-                    width:"47.5%",
-                    height:'45%',
+                    width:"43%",
+                    height:'40%',
                     padding:'1.3% 2%'
                   }} 
                   alt="Food" 
@@ -56,10 +55,10 @@ const CreateFood = () => {
           <Row>
             {cardItem.map((item) => (
               <div 
-                className="col-lg-5 card-item"
+                className="col-lg-5"
                 key={item.id}
                 style={{
-                  margin:item.id % 2 === 0 ? '2% 3% 2% 5%' : '2% 5% 2% 3%',
+                  margin:item.id % 2 === 0 ? '2% 0 2% 5%' : '2% 5% 2% 0',
                   padding:'1.5%',
                   borderRadius:"7%",
                   boxShadow:"0 0 10px 0 black"

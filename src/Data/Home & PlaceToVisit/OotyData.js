@@ -31,7 +31,7 @@ const cardItem = [
         id : 2,
         placeName : "Ooty Botanical Garden",
         img : Ooty_Botanical_Garden,
-        description : "Ooty Botanical Gardens lie on the lower slopes of the Doddabetta peak, the Government Botanical...",
+        description : "Ooty Botanical Gardens lie on the lower slopes of the Doddabetta peak, the Government Botanical Garden...",
         overview : {
             overview1 : "Ooty Botanical Gardens lie on the lower slopes of the Doddabetta peak, the Government Botanical Garden is a splendid garden in Udhagamandalam, near Coimbatore in the state of Tamil Nadu. Sprawled over an area of 22 hectares, the garden is divided into several sections that are trimmed beautifully to present an endearing sight.",
             overview2 : "Visitors are greeted with astounding colourful natural beauty from the moment they pass through the gates. For more than 160 years. foreign and local travellers have visited the lush green lawns of the garden, admiring the stunning variety of flowers, ferns, and orchids present here. Another highlight of the Botanical Garden is the Toda hill, known as the Toda mund, which gives the visitors an insight into the lives and culture of Todas (a tribe of the Nilgiris)."

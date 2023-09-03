@@ -14,7 +14,6 @@ const Navigation = () => {
                     <Nav.Link href='/place-to-visit'style={{color:"white"}}>Place To Visit</Nav.Link>
                     <Nav.Link href='/best-time-to-visit'style={{color:"white"}}>Best Time To Visit</Nav.Link>
                     <Nav.Link href='/packages'style={{color:"white"}}>Packages</Nav.Link>
-                    <Nav.Link href='/destination'style={{color:"white"}}>Destination</Nav.Link>
                     <Nav.Link href='/food'style={{color:"white"}}>Food</Nav.Link>
                 </Nav>
             </Navbar.Collapse>

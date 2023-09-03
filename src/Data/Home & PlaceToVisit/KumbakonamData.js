@@ -41,7 +41,7 @@ const cardItem = [
         id : 3,
         placeName : "Adi Kumbeshwara Temple",
         img : Adi_Kumbeshwara_Temple,
-        description : "Located in the town of Darasuram near Kumbakonam in Tamil Nadu, Airavatesvara...",
+        description : "Located in the town of Darasuram near Kumbakonam in Tamil Nadu, Airavatesvara Temple...",
         overview : {
             overview1 : "Believed to have been constructed in the 7th century AD by the Cholas, Adi Kumbeshwara Temple is one of the grandest and the oldest Shiva temple in the town. The temple has a magnificent architecture with the trademark style of the Cholas. It is dedicated to Lord Shiva and houses a unique Shiva lingam.",
             overview2 : "The temple complex covers an area of 30,181 sq ft (2,803.9 m2) and houses four gateway towers known as gopurams. The tallest is the easter tower, with 11 stories and a height of 128 feet (39 m) The temple has numerous shrines, with those of Kumbewwarar and Mangalambiga Amman being the most prominent. The temple complex houses many halls; the most notable is the sixteen pillared hall built during the Vijayanagara period that has all the 27 stars and 12 zodiacs sculpted in a single stone."

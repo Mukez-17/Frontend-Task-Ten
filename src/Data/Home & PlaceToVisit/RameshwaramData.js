@@ -41,7 +41,7 @@ const cardItem = [
         id : 3,
         placeName : "Rameshwaram Temple",
         img : Rameshwaram_Temple,
-        description : "A perfect blend of mind- boggling architecture and spiritual significance. Rameshwaram Temple, also known as....",
+        description : "A perfect blend of mind- boggling architecture and spiritual significance. Rameshwaram Temple, also....",
         overview : {
             overview1 : "A perfect blend of mind-boggling architecture and spiritual significance, Rameshwaram Temple, also known as Ramanathaswamy Temple of Tamil Nadu is dedicated to Lord Shiva. It also boasts of being one of the 12 Jyotirlinga temples of India. Not just spiritually, Rameshwaram Temple is appealing architecturally also. With the longest corridor of the world and immaculate carvings on pillars, it is definitely a treat for your eyes..",
             overview2 : "The lingam in the Rameshwaram Temple was installed by Lord Rama but, the construction was led by several rulers over the centuries. Inside the temple, there are two lingams- Ramalingam and Shivalingam. The latt is still worshipped first to preserve the words of Lord Rama. Besides daily Abhishkams and poojas performed with great zeal, there are absorbing festivals worth witnessing.."
